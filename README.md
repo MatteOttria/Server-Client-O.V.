@@ -17,15 +17,17 @@ Lista delle tecnologie utilizzate :
 ## Comandi
 ***
 Comandi disponibili : 
-```
-/<nome_utente>, serve per l'invio dei messaggi in privato
-/all, serve per l'invio dei messaggi in braodcast
-/list, serve per stampare la lista di tutti gli utenti connessi al server
-/rename, serve per cambiare il proprio nome utente
-/disconnect, serve per disconnettersi dal server
-```
+
+| Comando        | Descrizione                                                        |
+| :---           |:---                                                                |
+| /<nome_utente> | serve per l'invio dei messaggi in privato                          |
+| /all           | serve per l'invio dei messaggi in braodcast                        |
+| /list          | serve per stampare la lista di tutti gli utenti connessi al server |
+| /rename        | serve per cambiare il proprio nome utente                          |
+| /disconnect    | serve per disconnettersi dal server                                |
+
 NOTA : 
-* Gli utenti vengono serializzati come Json.
+* Gli utenti vengono serializzati come [Json](json.org/json-it.html).
 * In caso avvenga una disconnessione forzata della client socket il server cancellerà l'utente dalla lista.
 * In caso il server chiuda improvvisamente la connessione nessun utente verrà salvato nella lista.
 ## Team di Sviluppo
