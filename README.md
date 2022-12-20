@@ -19,7 +19,7 @@ Lista delle tecnologie utilizzate :
 Comandi disponibili : 
 
 | Comando        | Descrizione                                                        |
-| :---           |                                                               ---: |
+| :---           |:---                                                                |
 | /<nome_utente> | serve per l'invio dei messaggi in privato                          |
 | /all           | serve per l'invio dei messaggi in braodcast                        |
 | /list          | serve per stampare la lista di tutti gli utenti connessi al server |
