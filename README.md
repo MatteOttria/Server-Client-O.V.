@@ -34,3 +34,17 @@ NOTA :
 ***
 * [Matteo Ottria](https://github.com/MatteOttria)
 * [Mattia Vestri](https://github.com/WestriMattia)
+## Diagrammi UML
+***
+### Accesso
+![Accesso](myimages/access.png)
+### Messaggio in privato
+![Messaggio in privato](myimages/msg.png)
+### Messaggio in broadcast
+![Messaggio in broadcast](myimages/all.png)
+### Cambio del nome utente
+![Cambio del nome utente](myimages/rename.png)
+### Lista utenti
+![Lista utenti](myimages/list.png)
+### Disconnessione
+![Disconnessione](myimages/disconnect.png)
