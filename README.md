@@ -4,6 +4,13 @@
 2. [Strumenti Utilizzati](#strumenti)
 3. [Comandi](#comandi)
 4. [Team di Sviluppo](#team-di-sviluppo)
+5. [Diagrammi UML](#diagrammi-uml)
+   - [Accesso](#accesso)
+   - [Messaggio in privato](#messaggio-in-privato)
+   - [Messaggio in broadcast](#messaggio-in-privato)
+   - [Cambio del nome utente](#cambio-del-nome-utente)
+   - [Lista utenti](#lista-utenti)
+   - [Disconnessione](#disconnessione)
 ### Descrizione
 ***
 Un programma di messaggistica con architettura client-server in Java, basato sul protocollo TCP e che permette una comunicazione full-duplex. 
