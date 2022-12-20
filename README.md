@@ -16,7 +16,18 @@ Lista delle tecnologie utilizzate :
 * Linguaggio di Markup : [Json](json.org/json-it.html)
 ## Comandi
 ***
-
+Comandi disponibili : 
+```
+/<nome_utente>, serve per l'invio dei messaggi in privato
+/all, serve per l'invio dei messaggi in braodcast
+/list, serve per stampare la lista di tutti gli utenti connessi al server
+/rename, serve per cambiare il proprio nome utente
+/disconnect, serve per disconnettersi dal server
+```
+NOTA : 
+* Gli utenti vengono serializzati come Json.
+* In caso avvenga una disconnessione forzata della client socket il server cancellerà l'utente dalla lista.
+* In caso il server chiuda improvvisamente la connessione nessun utente verrà salvato nella lista.
 ## Team di Sviluppo
 ***
 * [Matteo Ottria](https://github.com/MatteOttria)
