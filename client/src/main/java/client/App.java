@@ -39,7 +39,6 @@ public class App {
             }
             System.out.println("+ Disconnessione avvenuta.");
         }catch (Exception e) {
-            System.out.println("+ Sei stato disconnesso forzatamente dal server.");
         }
     }
 

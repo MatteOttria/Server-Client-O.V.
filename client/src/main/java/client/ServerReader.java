@@ -37,7 +37,7 @@ public class ServerReader extends Thread{
                 }
             }
         } catch (Exception e) {
-            System.out.println(e);
+            System.out.println("+ Sei stato disconnesso forzatamente dal server.");
         }
     }
 
