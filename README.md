@@ -6,8 +6,8 @@
 4. [Team di Sviluppo](#team-di-sviluppo)
 ### Descrizione
 ***
-Un programma di messaggistica con architettura client-server in Java, basato sul protocollo TCP e che permette una comunicazione full-duplex 
-Il client può inviare messaggi in brodcast o a singoli client.
+Un programma di messaggistica con architettura client-server in Java, basato sul protocollo TCP e che permette una comunicazione full-duplex. 
+Il client può inviare messaggi in brodcast o ai singoli client.
 ## Strumenti
 ***
 Lista delle tecnologie utilizzate :
