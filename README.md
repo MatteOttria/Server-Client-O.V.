@@ -20,7 +20,7 @@ Il client può inviare messaggi in brodcast o ai singoli client.
 Lista delle tecnologie utilizzate :
 * Linguaggio di Programmazione : [Java](https://www.java.com/it/) ([Maven](https://maven.apache.org/))
 * IDE : [Visual Studio Code](https://code.visualstudio.com/)
-* Linguaggio di Markup : [Json](json.org)
+* Linguaggio di Markup : [Json](https://json.org/)
 ## Comandi
 ***
 Comandi disponibili : 
@@ -34,7 +34,7 @@ Comandi disponibili :
 | /disconnect    | serve per disconnettersi dal server                                |
 
 NOTA : 
-* Gli utenti vengono serializzati come [Json](json.org).
+* Gli utenti vengono serializzati come [Json](https://json.org/).
 * In caso avvenga una disconnessione forzata della client socket il server cancellerà l'utente dalla lista.
 * In caso il server chiuda improvvisamente la connessione nessun utente verrà salvato nella lista.
 ## Team di Sviluppo
